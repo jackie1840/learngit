@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Test branch functiopn again.
 Test third
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
