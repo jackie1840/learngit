@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Test branch functiopn again.
 Test third
 Creating a new branch is quick and simple.
+about fast forward
